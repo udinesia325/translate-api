@@ -12,7 +12,7 @@ cd translate-api
 npm install express cors google-baidu-translate-api
 ```
 ## Penggunaan
-- setelah semua selesai, silahkan jalankan apkikasi dengan mengetikkan perintah 
+- setelah semua selesai, silahkan jalankan aplikasi dengan mengetikkan perintah 
 ```
 node app
 ```
