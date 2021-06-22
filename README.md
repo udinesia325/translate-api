@@ -1,6 +1,15 @@
 # TRANSLATE-API
 #### adalah api yang dapat menterjemahkan teks ke berbagai bahasa asing
 ##### *from developer to developer*
+
+
+#### request link
+```
+https://fahruddinsalim.herokuapp.com/terjemah?teks=coba&kode=en
+
+```
+
+
 ## Pemasangan
 - lakukan kloning ke repo ini
 ```sh
